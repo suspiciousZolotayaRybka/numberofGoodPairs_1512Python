@@ -39,4 +39,4 @@ import numberofGoodPairs_1512
 # Press the green button in the gutter to run the script.
 if __name__ == '__main__':
     solution = numberofGoodPairs_1512.numberofGoodPairs_1512()
-    print(solution.numIdenticalPairs([0, 0, 0]))
+    print(solution.numIdenticalPairs([1, 2, 3, 1, 1, 3]))
